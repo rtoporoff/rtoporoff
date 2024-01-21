@@ -17,7 +17,11 @@
 
 ### Skills in progress:
 
-            <i class="devicon-react-original-wordmark colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="30" height="30" />
+
+
+
+
           
             <i class="devicon-tailwindcss-original-wordmark colored"></i>
           
