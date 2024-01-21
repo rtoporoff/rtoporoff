@@ -25,9 +25,8 @@
             <i class="devicon-tailwindcss-original-wordmark colored"></i>
           
             <i class="devicon-nodejs-plain-wordmark colored"></i>
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
              
           
 
