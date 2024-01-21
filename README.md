@@ -10,13 +10,13 @@
 
 ### Skills:
 
-            <i class="devicon-html5-plain-wordmark colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="30" height="30" />
           
-            <i class="devicon-css3-plain-wordmark colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="30" height="30" />
           
-            <i class="devicon-javascript-plain colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="30" height="30" />
           
-            <i class="devicon-git-plain-wordmark colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="30" height="30" />
 
 ### Skills in progress:
 
