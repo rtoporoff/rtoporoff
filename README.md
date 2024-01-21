@@ -3,7 +3,7 @@
 ## Welcome to my code dungeon 🏰  *imagine an epic medieval song* 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ADD4w6XgqLBJohQdBK/giphy.gif" alt="GIF de Trabalho" width="200" height="100">
+  <img src="https://media.giphy.com/media/ADD4w6XgqLBJohQdBK/giphy.gif" alt="GIF de Trabalho" width="200" height="200">
 </p>
 
 - 🌱 I’m currently learning JavaScript and React, but I'm thinking about studying Python and data science
