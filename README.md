@@ -1,6 +1,6 @@
           
 # Hi. My name is Renan Toporoff, but you can call me Nano 
-## Welcome to my code dungeon 🏰 ** *epic background music* **
+## Welcome to my code dungeon 🏰  *epic background music* 
 
 - 🌱 I’m currently learning JavaScript and React
 - 👯 I’m looking to collaborate on web projects
