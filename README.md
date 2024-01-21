@@ -2,7 +2,9 @@
 # Hi. My name is Renan Toporoff, but you can call me Nano 
 ## Welcome to my code dungeon 🏰  *epic background music* 
 
-- 🌱 I’m currently learning JavaScript and React
+![coding](https://media.giphy.com/media/ADD4w6XgqLBJohQdBK/giphy.gif)
+
+- 🌱 I’m currently learning JavaScript and React, but I'm thinking about studying Python and data science
 - 👯 I’m looking to collaborate on web projects
 - 💬 Ask me about anything you want
 - 😄 Pronouns: he/him
