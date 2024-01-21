@@ -1,8 +1,10 @@
           
 # Hi. My name is Renan Toporoff, but you can call me Nano 
-## Welcome to my code dungeon 🏰  *epic background music* 
+## Welcome to my code dungeon 🏰  *imagine an epic medieval song* 
 
-![coding](https://media.giphy.com/media/ADD4w6XgqLBJohQdBK/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/ADD4w6XgqLBJohQdBK/giphy.gif" alt="GIF de Trabalho" width="200" height="100">
+</p>
 
 - 🌱 I’m currently learning JavaScript and React, but I'm thinking about studying Python and data science
 - 👯 I’m looking to collaborate on web projects
