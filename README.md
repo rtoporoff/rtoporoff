@@ -1,3 +1,6 @@
+
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 # Hi. My name is Renan Toporoff, but you can call me Nano 
 ## Welcome to my code dungeon 🏰 **epic background music**
 
