@@ -1,6 +1,6 @@
           
-# Hi. My name is Renan Toporoff, but you can call me Nano 
-## Welcome to my code dungeon 🏰  *imagine an epic medieval song* 
+### Hi. My name is Renan Toporoff, but you can call me Nano 
+#### Welcome to my code dungeon 🏰  *imagine an epic medieval song* 
 
 <p align="center">
   <img src="https://media.giphy.com/media/ADD4w6XgqLBJohQdBK/giphy.gif" alt="GIF de Trabalho" width="200" height="200">
