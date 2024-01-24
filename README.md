@@ -1,10 +1,11 @@
           
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b3b3b3&size=32&center=true&vCenter=true&width=1000&lines=Hello+World,+I'm+Renan+Toporoff;but+you+can+call+me+Nano;Welcome+to+my+dungeon!+🔥+🏰+🔥)](https://git.io/typing-svg) 
 
-<p align="left">
+<p align="center">
   <img src="https://media.giphy.com/media/ADD4w6XgqLBJohQdBK/giphy.gif" alt="GIF de Trabalho" width="200" height="200">
 </p>
-
+<div align="center">
+          
 ### Skills
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40" height="40" />
@@ -19,7 +20,7 @@
           
 
 ### Talk to me
-<div>
+
 <a href="https://instagram.com/nanoroff" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/nanoroff" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href = "mailto:renan.toporoff@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
