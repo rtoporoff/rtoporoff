@@ -1,22 +1,15 @@
           
-### Hi. My name is Renan Toporoff, but you can call me Nano 
-#### Welcome to my code dungeon 🏰  *imagine an epic medieval song* 
+### Hi. I'm Renan Toporoff, but you can call me Nano 
+#### Welcome to my code dungeon 🏰  
 
 <p align="left">
   <img src="https://media.giphy.com/media/ADD4w6XgqLBJohQdBK/giphy.gif" alt="GIF de Trabalho" width="200" height="200">
 </p>
 
-- 🌱 I’m currently learning JavaScript and React, but I'm thinking about studying Python and data science
-- 👯 I’m looking to collaborate on web projects
-- 💬 Ask me about anything you want
-- 😄 Pronouns: he/him
-- 🥁 Fun fact: when I was younger I played drums in an anime music band
-
 ### Skills:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40" height="40" />
-       
-          
+                
      
 
 ### Skills in progress:
