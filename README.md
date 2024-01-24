@@ -1,6 +1,6 @@
 <div align="center">
           
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b3b3b3&size=32&center=true&vCenter=true&width=800&lines=Hello+World,+I'm+Renan+Toporoff;but+you+can+call+me+Nano;Welcome+to+my+dungeon!+🔥+🏰+🔥)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b3b3b3&size=32&center=true&vCenter=true&width=600&lines=Hello+World,+I'm+Renan+Toporoff;but+you+can+call+me+Nano;Welcome+to+my+dungeon!+🔥+🏰+🔥)](https://git.io/typing-svg) 
 
 
   <img src="https://media.giphy.com/media/ADD4w6XgqLBJohQdBK/giphy.gif" alt="GIF de Trabalho" width="200" height="200">
