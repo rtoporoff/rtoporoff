@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b3b3b3&size=32&center=true&vCenter=true&width=600&lines=Hello+World,+I'm+Renan+Toporoff;but+you+can+call+me+Nano;Welcome+to+my+dungeon!+🔥+🏰+🔥)](https://git.io/typing-svg) 
 
 
-  <img src="https://media.giphy.com/media/ADD4w6XgqLBJohQdBK/giphy.gif" alt="GIF de Trabalho" width="200" height="200">
+<img src="https://media.giphy.com/media/ADD4w6XgqLBJohQdBK/giphy.gif" alt="GIF de Trabalho" width="200" height="200">
 
-
+</div>
 
           
 #### Skills
@@ -27,7 +27,7 @@
 <a href="https://www.twitch.tv/nanoroff" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href = "mailto:renan.toporoff@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rtoporoff" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+
 
 <!--
 <div>
